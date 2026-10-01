@@ -104,3 +104,53 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity-generated caches and temporary files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.utmp/
+
+# Build output — save exported builds in these folders
+/[Bb]uild/
+/[Bb]uilds/
+
+# Profiling captures and recordings
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE caches and personal settings
+.vs/
+.idea/
+*.user
+*.userprefs
+*.suo
+*.DotSettings.user
+
+# Unity-generated IDE projects and solutions
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+
+# Debug output and crash reports
+*.pdb
+*.mdb
+*.pidb
+*.pdb.meta
+*.mdb.meta
+*.pidb.meta
+*.log
+sysinfo.txt
+mono_crash.*
+
+# Operating system clutter
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Blender backup files
+*.blend1
+*.blend1.meta
